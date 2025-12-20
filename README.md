@@ -2,7 +2,7 @@
 ### Hi, I'm Barnabas 👋  
 **Full-Stack Developer | Turning Ideas into Reality, One Line of Code at a Time**
 
-I build anything that sparks my imagination — because I believe every great idea deserves to exist.  
+I build anything that sparks my imagination  because I believe every great idea deserves to exist.  
 Coding isn’t just my craft; it’s how I bring vision to life with **Vue, React, TypeScript, Vite, and Next.js** on the frontend, and **Node.js, Express, and serverless functions** on the backend — all powered by a little help from AI.
 
 I’m a follower of Christ, a builder by nature, and always shipping something new.  
