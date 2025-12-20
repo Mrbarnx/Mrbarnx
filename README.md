@@ -1,13 +1,14 @@
 # 💫 About Me:
-### Hi, I'm Barnabas Mikel 👋  
-**Full-Stack Web Developer | Building Secure, Human-Centered  web andAI Interfaces**
+### Hi, I'm Barnabas 👋  
+**Full-Stack Developer | Turning Ideas into Reality, One Line of Code at a Time**
 
-I build fast, clean, and privacy-aware web applications that make powerful AI feel simple.  
-Currently focused on **full-stack development** with **Vue 3, TypeScript, and Vite** on the frontend, and **Node.js** on the backend  with hands-on experience integrating **multi-modal AI** (text, image, file) via **OpenRouter**, while prioritizing **security** (planned Vercel proxy architecture) and **user experience**.
+I build anything that sparks my imagination — because I believe every great idea deserves to exist.  
+Coding isn’t just my craft; it’s how I bring vision to life with **Vue, React, TypeScript, Vite, and Next.js** on the frontend, and **Node.js, Express, and serverless functions** on the backend — all powered by a little help from AI.
 
-While I work across modern frameworks like **React/Next.js**
-I don’t just connect APIs — I design interfaces where technology disappears, and users feel in control.  
-Self-driven, product-minded, and obsessed with turning complex systems into intuitive tools.
+I’m a follower of Christ, a builder by nature, and always shipping something new.  
+If you’re here, I hope my projects inspire, solve real problems, or maybe even surprise you.
+
+✨ **Have a great time exploring my GitHub!**
 
 ---
 
