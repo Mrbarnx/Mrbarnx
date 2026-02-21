@@ -8,6 +8,8 @@ Coding isn’t just my craft; it’s how I bring vision to life with **Vue, Reac
 I’m a follower of Christ, a builder by nature, and always shipping something new.  
 If you’re here, I hope my projects inspire, solve real problems, or maybe even surprise you.
 
+Here is my portfolio https://barnsportfolio.vercel.app/
+
 ✨ **Have a great time exploring my GitHub!**
 
 ---
