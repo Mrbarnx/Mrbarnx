@@ -5,46 +5,49 @@ Frontend-Focused Full-Stack Engineer building modern web applications while inte
 </h3>
 
 <p align="center">
-Building products that are fast, scalable, beautiful, and designed to solve real business problems.
+I build polished frontend products, connect them to real backend systems, and keep growing deeper into AI, automation, containerization, and production engineering.
+</p>
+
+<p align="center">
+<a href="https://barnx-portfolio-v2.vercel.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/mrbarns">LinkedIn</a> •
+<a href="mailto:mrbarnx@gmail.com">Email</a>
 </p>
 
 ---
 
 # 💫 About Me
 
-### Turning Ideas into Reality, One Line of Code at a Time.
+I'm a **Frontend-Focused Full-Stack Engineer** who enjoys turning product ideas into interfaces and systems people can actually use.
 
-I believe every great idea deserves to exist.
+My strongest area is frontend engineering — **React, Vue, Next.js, TypeScript, Tailwind CSS, responsive UI, accessibility, and reusable component architecture**.
 
-I'm a **Frontend-Focused Full-Stack Engineer** passionate about building software that feels effortless to use and powerful under the hood.
+Beyond the frontend, I work with **Node.js, Express.js, PostgreSQL, REST APIs, AI integrations, workflow automation, Docker, and Docker Compose**. I’m especially interested in understanding how the full product works: interface → API → database → automation → deployment.
 
-Today I primarily build modern web applications using **Vue, React, Next.js, TypeScript, Tailwind CSS, and Node.js**, while continuously expanding into **AI Engineering, intelligent automations, and scalable backend systems**.
+I enjoy building startup MVPs, product interfaces, AI-enabled experiences, developer resources, and practical systems that solve real problems.
 
-Whether it's launching a startup MVP, designing pixel-perfect interfaces, or integrating AI into user experiences, I enjoy turning ambitious ideas into production-ready products.
-
-Outside of coding, I'm a follower of Christ ✝️, a lifelong builder, and someone who enjoys learning, experimenting, and shipping things that make people's lives easier.
-
-If you're here, I hope my projects inspire you, teach you something new, or help solve a problem you're working on.
+Outside of coding, I'm a follower of Christ ✝️, a lifelong learner, and someone who likes documenting what I learn so other developers can benefit from it too.
 
 ---
 
-# 🚀 Currently Building
+# 🚀 What I'm Working On
 
-- 💼 Frontend Engineer
-- ⚡ Production-ready Full-Stack Applications
-- 🤖 AI-powered Features & Integrations
-- 🔄 Workflow Automation with n8n
-- 🌍 Open to Remote Opportunities & Collaborations
+- 💼 Frontend engineering and product interfaces
+- ⚡ Production-ready full-stack applications
+- 🤖 AI-powered features and integrations
+- 🔄 Workflow automation with n8n and APIs
+- 🐳 Containerized Node.js + PostgreSQL development with Docker
+- 🌍 Open to remote engineering opportunities and collaborations
 
 ---
 
 # 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://barnx-portfolio-v2.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrbarns)
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mrbarnx)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MRBARNX)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrbarnx@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrbarns)
 
 ---
 
@@ -60,109 +63,128 @@ If you're here, I hope my projects inspire you, teach you something new, or help
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-### ⚙️ Backend
+**Working with:** responsive UI • accessibility • reusable component architecture • API-driven interfaces • loading/error states • product-focused UX
+
+### ⚙️ Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-0A0A0A)
 
-### 🤖 AI
+**Working with:** REST APIs • PostgreSQL • Prisma • FastAPI integration • serverless functions • webhooks • environment configuration
+
+### 🐳 Containerization & DevOps Foundations
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+**Practical foundations:** Dockerfiles • images & containers • Docker Compose • container networking • persistent volumes • health checks • environment variables • multi-container Node.js + PostgreSQL development
+
+### 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-black?logo=openrouter&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue)
-
-### 🔄 Automation
-
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B)
-![REST API](https://img.shields.io/badge/REST-API-green)
 
-### 🧰 Tools
+**Working with:** AI API integration • multimodal interfaces • prompt engineering • workflow design • WhatsApp integrations • webhook-driven automation
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### 🧰 Engineering Tools
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Work
 
-### 🤖 AI Customer Support Platform
+### 🛒 [Subly](https://github.com/Mrbarnx/SUBLY)
 
-Modern customer support platform powered by AI, capable of handling conversations across multiple channels.
+Responsive digital-access marketplace with product discovery, cart, checkout, authentication, dashboard flows, Supabase integration, and bot-protected lead capture.
 
-**Stack:** React • Node.js • PostgreSQL • OpenAI
-
----
-
-### 💬 Barnix AI
-
-An AI-powered assistant focused on productivity, automation, and intelligent workflows.
+**Stack:** React 19 • Vite • Tailwind CSS • Supabase • Cloudflare Turnstile
 
 ---
 
-### ⚡ AI Chat Interface
+### 🤖 [Omni-Channel AI Chatbot](https://github.com/Mrbarnx/Omni-Channel-AI-Chatbot-Node.js-)
 
-Multi-modal AI chat application supporting text, images, and file uploads using OpenRouter.
+Shared conversation backend for website and WhatsApp experiences with lead capture, qualification, handoff flows, validation, rate limiting, and webhook signature verification.
+
+**Stack:** Node.js • Express.js • Prisma • PostgreSQL • WhatsApp Cloud API
 
 ---
 
-### 🔄 Automation Workflows
+### 🐳 [Docker Student API](https://github.com/Mrbarnx/docker-student-api)
 
-Business automation systems built using APIs, AI, and n8n.
+A hands-on containerized REST API built to demonstrate practical Docker foundations: a Node.js/Express service connected to PostgreSQL through Docker Compose with networking, persistent storage, health checks, environment configuration, and automatic database initialization.
+
+**Stack:** Docker • Docker Compose • Node.js • Express.js • PostgreSQL • Git
+
+---
+
+### ⚡ [BANX Automation Studio](https://github.com/Mrbarnx/banxweb)
+
+A frontend-led automation product concept focused on responsive product storytelling, interactive presentation, and service packaging.
+
+**Stack:** Next.js • TypeScript • Tailwind CSS • Three.js
+
+---
+
+# 📚 Learning in Public
+
+I document practical learning paths and developer resources inside **Barnx Studio** so other developers can learn from the same material and projects I use.
+
+- 🐳 [Docker Fundamentals Learning Path](https://barnx-portfolio-v2.vercel.app/barnx-studio/learning-paths/docker-fundamentals)
+- ✨ [AI Prompt Library](https://barnx-portfolio-v2.vercel.app/barnx-studio/prompts)
+- 🧰 [Barnx Studio Resources](https://barnx-portfolio-v2.vercel.app/barnx-studio)
+
+---
+
+# 🧠 Currently Deepening
+
+- 🤖 AI Engineering
+- 🔄 Intelligent Automation with n8n
+- ⚙️ Backend architecture
+- 🏗️ System design
+- ☁️ Cloud deployment and production infrastructure
 
 ---
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=MRBARNS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mrbarnx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Barnabas Mikel GitHub stats" />
+</p>
 
-![](https://streak-stats.demolab.com?user=MRBARNS&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbarnx&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRBARNS&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mrbarnx&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=MRBARNS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MRBARNS&theme=tokyo-night&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=MRBARNS&style=for-the-badge)
-
----
-
-# 🧠 Currently Learning
-
-- 🤖 AI Engineering
-- 🔄 Intelligent Automation (n8n)
-- ⚙️ Backend Architecture
-- 🏗️ System Design
-- ☁️ Cloud Deployment
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mrbarnx&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Become an exceptional Full-Stack Engineer
-- 🤖 Master AI Engineering
-- 🔄 Master Workflow Automation
-- 🌍 Build software used by thousands
-- 💼 Help startups launch faster
-- 📚 Contribute more to Open Source
-
----
-
-# ⚡ Fun Facts
+# ⚡ A Little More About Me
 
 - 🎮 Gamer turned Software Engineer
 - ✝️ Faith plays an important role in my life
-- 💙 I enjoy turning ideas into real products
+- 💙 I enjoy turning ideas into useful products
+- 📚 I like learning in public and turning what I learn into resources for other developers
 - 🚀 I believe software should solve problems, not create them
-- ☕ Always building. Always learning.
 
 ---
 
