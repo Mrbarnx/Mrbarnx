@@ -20,7 +20,7 @@ I build polished frontend products, connect them to real backend systems, and ke
 
 I'm a **Frontend-Focused Full-Stack Engineer** who enjoys turning product ideas into interfaces and systems people can actually use.
 
-My strongest area is frontend engineering — **React, Vue, Next.js, TypeScript, Tailwind CSS, responsive UI, accessibility, and reusable component architecture**.
+My strongest area is frontend engineering  **React, Vue, Next.js, TypeScript, Tailwind CSS, responsive UI, accessibility, and reusable component architecture**.
 
 Beyond the frontend, I work with **Node.js, Express.js, PostgreSQL, REST APIs, AI integrations, workflow automation, Docker, and Docker Compose**. I’m especially interested in understanding how the full product works: interface → API → database → automation → deployment.
 
