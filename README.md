@@ -161,11 +161,11 @@ I document practical learning paths and developer resources inside **Barnx Studi
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mrbarnx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Barnabas Mikel GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mrbarnx&theme=tokyonight" alt="Barnabas Mikel GitHub stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbarnx&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrbarnx&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
