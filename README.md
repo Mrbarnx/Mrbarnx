@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barnabas Mikel</h1>
 
 <h3 align="center">
-Frontend-Focused Full-Stack Engineer building modern web applications while integrating AI-powered features and intelligent automations.
+Software Engineer | AI Engineering & Automation
 </h3>
 
 <p align="center">
-I build polished frontend products, connect them to real backend systems, and keep growing deeper into AI, automation, containerization, and production engineering.
+I build full-stack software, AI-powered applications, API integrations, internal business tools, and automated workflows that solve practical product and operational problems.
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@ I build polished frontend products, connect them to real backend systems, and ke
 
 # 💫 About Me
 
-I'm a **Frontend-Focused Full-Stack Engineer** who enjoys turning product ideas into interfaces and systems people can actually use.
+I'm a **Software Engineer** building full-stack software, AI-powered applications, API integrations, internal business tools, and automated workflows.
 
-My strongest area is frontend engineering  **React, Vue, Next.js, TypeScript, Tailwind CSS, responsive UI, accessibility, and reusable component architecture**.
+Frontend engineering remains one of my strongest foundations: **React, Vue, Next.js, TypeScript, Tailwind CSS, responsive UI, accessibility, and reusable component architecture**.
 
 Beyond the frontend, I work with **Node.js, Express.js, PostgreSQL, REST APIs, AI integrations, workflow automation, Docker, and Docker Compose**. I’m especially interested in understanding how the full product works: interface → API → database → automation → deployment.
 
@@ -32,7 +32,7 @@ Outside of coding, I'm a follower of Christ ✝️, a lifelong learner, and some
 
 # 🚀 What I'm Working On
 
-- 💼 Frontend engineering and product interfaces
+- 💼 Software engineering and full-stack product systems
 - ⚡ Production-ready full-stack applications
 - 🤖 AI-powered features and integrations
 - 🔄 Workflow automation with n8n and APIs
