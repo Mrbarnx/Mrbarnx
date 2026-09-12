@@ -9,7 +9,7 @@ I build full-stack software, AI-powered applications, API integrations, internal
 </p>
 
 <p align="center">
-<a href="https://barnx-portfolio-v2.vercel.app">Portfolio</a> •
+<a href="https://barnx.indevs.in/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/mrbarns">LinkedIn</a> •
 <a href="mailto:mrbarnx@gmail.com">Email</a>
 </p>
